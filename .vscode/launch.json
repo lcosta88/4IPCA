@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/msjlc/Documents/4IPCA",
-      "program": "c:/Users/msjlc/Documents/4IPCA/build/Debug/outDebug",
+      "cwd": "c:/Users/msjlc/Documents/4IPCA/.git",
+      "program": "c:/Users/msjlc/Documents/4IPCA/.git/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
