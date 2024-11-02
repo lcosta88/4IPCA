@@ -5,6 +5,6 @@ int main(){
     printf("hello");
     printf("hello");
  
-ola
+ola2
 return 0;
 }
