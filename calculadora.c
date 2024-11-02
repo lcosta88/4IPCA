@@ -5,7 +5,6 @@ int main() {
     int opcao;
     float num1, num2, resultado;
 
-    printf("Calculadora em C\n");
     printf("Escolha uma operacao:\n");
     printf("1. Adicao\n");
     printf("2. Subtracao\n");
