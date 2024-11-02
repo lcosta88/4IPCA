@@ -5,6 +5,8 @@ int main(){
     printf("hello");
     printf("hello");
  
-ola2
+ola
+2
+    ola tiago
 return 0;
 }
