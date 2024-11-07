@@ -9,10 +9,7 @@ class Calculadora {
 int main(){
     float a, b;
     int opcao;
-    Calculadora adicao;
-    Calculadora substraçao;
-    Calculadora divisao;
-    Calculadora mutiplicacao;
+    Calculadora calc;
 
     cout << "Escolhe uma opcao: ";
     cin >> opcao;
@@ -23,23 +20,23 @@ int main(){
     
     switch (opcao){
         case 1:
-        adicao.resultado = a + b;
-        cout << adicao.resultado;
+        calc.resultado = a + b;
+        cout << calc.resultado;
         break;
         
         case 2:
-        adicao.resultado = a - b;
-        cout << adicao.resultado;
+        calc.resultado = a - b;
+        cout << calc.resultado;
         break;
         
         case 3:
-        adicao.resultado = a / b;
-        cout << adicao.resultado;
+        calc.resultado = a / b;
+        cout << calc.resultado;
         break;
         
         case 4:
-        adicao.resultado = a * b;
-        cout << adicao.resultado;
+        calc.resultado = a * b;
+        cout << calc.resultado;
         break;
         
         default:
