@@ -4,8 +4,6 @@ using namespace std;
 class Calculadora {
     public:
         float resultado;
-        float a;
-        float b;
 };
 
 int main(){
