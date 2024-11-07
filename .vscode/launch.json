@@ -8,7 +8,7 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/msjlc/Documents/4IPCA/.git",
+      "cwd": "c:/Users/msjlc/Documents/4IPCA/.vscode/Calculadora_MVC.git",
       "program": "c:/Users/msjlc/Documents/4IPCA/.git/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
